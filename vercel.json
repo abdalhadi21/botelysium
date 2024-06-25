@@ -1,5 +1,5 @@
 {
-  "installCommand": "bun install"
+  "installCommand": "bun install",
   "functions": {
     "src/app/api/**/*.ts": {
       "maxDuration": 60
