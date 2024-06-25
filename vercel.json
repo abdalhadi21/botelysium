@@ -1,7 +1,7 @@
 {
   "installCommand": "bun install"
   "functions": {
-    "src/app/api/**/*": {
+    "src/app/api/*": {
       "maxDuration": 300
     }
   }
